@@ -17,6 +17,25 @@ This project demonstrates an AI-powered Twitter bot that generates contextual tw
 - For each scenario, generates a tweet using OpenAI's GPT-4 via LangChain.
 - Outputs a grid-style log showing scenario details and the generated tweet.
 
+## 🔄 System Flow
+```mermaid
+graph TD
+    A[Market Data] -->|Load Scenarios| B[Main Application]
+    C[Context Info] -->|Load & Process| B
+    B -->|Text Splitting| D[Text Chunks]
+    D -->|Create Embeddings| E[Vector Store]
+    E -->|Semantic Search| F[Context Retrieval]
+    B -->|Market Scenario| G[Tweet Generation]
+    F -->|Relevant Context| G
+    G -->|OpenAI GPT-4| H[Generated Tweet]
+    H -->|Display| I[Output Grid]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style C fill:#bbf,stroke:#333,stroke-width:2px
+    style B fill:#dfd,stroke:#333,stroke-width:2px
+    style H fill:#fdd,stroke:#333,stroke-width:2px
+```
+
 ## 📁 Project Structure
 ```
 .
