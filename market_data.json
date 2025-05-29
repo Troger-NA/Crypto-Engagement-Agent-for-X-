@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Total Market Crash",
+        "crypto_market": "Bitcoin dropping to 29K, altcoins collapsing",
+        "market_mood": "Extreme panic",
+        "trending_x": ["Financial collapse", "Banks in crisis", "Crypto crash"],
+        "global_event": "Banking instability in the U.S."
+    },
+    {
+        "name": "Bull Market Euphoria",
+        "crypto_market": "Bitcoin breaks 75K, altcoins exploding",
+        "market_mood": "Extreme optimism",
+        "trending_x": ["FOMO", "Altcoins x10", "Institutional buying"],
+        "global_event": "Bitcoin ETF approved"
+    },
+    {
+        "name": "Boring Sideways Market",
+        "crypto_market": "Bitcoin at 43K, market direction unclear",
+        "market_mood": "Disinterest, memes",
+        "trending_x": ["Meme season", "NFTs resurging", "Crypto is boring"],
+        "global_event": "Nothing relevant, just speculation"
+    },
+    {
+        "name": "Slow and Steady Rise",
+        "crypto_market": "Bitcoin slowly climbing to 48K",
+        "market_mood": "Cautious optimism",
+        "trending_x": ["Safe crypto", "Silent accumulation", "Smart money in play"],
+        "global_event": "Banks adopting blockchain for payments"
+    },
+    {
+        "name": "Aggressive Crypto Regulation",
+        "crypto_market": "Bitcoin at 38K, fear over new regulations",
+        "market_mood": "Uncertainty, fear",
+        "trending_x": ["SEC vs Crypto", "Asian crypto ban", "Stablecoins under scrutiny"],
+        "global_event": "The SEC sues multiple exchanges"
+    },
+    {
+        "name": "Altcoin Boom",
+        "crypto_market": "Bitcoin stable at 50K, but an altcoin surges 500%",
+        "market_mood": "Selective FOMO",
+        "trending_x": ["New Dogecoin", "X100 token", "Hype out of control"],
+        "global_event": "An influencer pumps a memecoin"
+    },
+    {
+        "name": "Global Economic Crisis",
+        "crypto_market": "Bitcoin at 30K, stock markets plunging",
+        "market_mood": "Pessimism, recession fears",
+        "trending_x": ["Global recession", "Banks in trouble", "Crypto as safe haven"],
+        "global_event": "Financial crisis in Europe"
+    },
+    {
+        "name": "DeFi and Staking Boom",
+        "crypto_market": "Ethereum at 4K, TVL in DeFi skyrocketing",
+        "market_mood": "DeFi success",
+        "trending_x": ["Staking boom", "Insane yields", "L2 adoption"],
+        "global_event": "Major banks entering DeFi"
+    },
+    {
+        "name": "Disruptive Global Event",
+        "crypto_market": "Bitcoin at 60K, but high uncertainty",
+        "market_mood": "General concern",
+        "trending_x": ["Geopolitical tension", "Runaway inflation", "Volatile markets"],
+        "global_event": "An armed conflict impacts markets"
+    },
+    {
+        "name": "Slow but Steady Growth",
+        "crypto_market": "Bitcoin at 55K with strong support",
+        "market_mood": "Growing confidence",
+        "trending_x": ["Strong HODL", "Whales accumulating", "Institutional crypto adoption"],
+        "global_event": "Increased crypto adoption in global payments"
+    }
+]
